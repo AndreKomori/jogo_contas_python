@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E731" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Módulos.modulos_customizados.map" />
+          <option value="Leitura_e_Escrita_Arquivos.leitura_de_arquivos.texto" />
+          <option value="Leitura_e_Escrita_Arquivos.*" />
+          <option value="str.stat" />
+          <option value="str.path" />
+          <option value="str.name" />
+          <option value="str.is_symlink" />
+          <option value="str.is_file" />
+          <option value="str.is_dir" />
+          <option value="str.inode" />
+          <option value="Orientacao_Objetos.atributos.Acesso.__senha" />
+          <option value="list.split" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
